@@ -1,6 +1,4 @@
-import I18n from 'react-native-i18n';
-
-I18n.translations['pt-BR'] = {
+module.exports = {
     'invalid-login': 'Credenciais inválidas!',
     'invalid-code': 'Código inválido!',
     'login-invalid-for-your-version': 'Não foi possível fazer o login, por favor, atualize o aplicativo Grower Helper na loja',
